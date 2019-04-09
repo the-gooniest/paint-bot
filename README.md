@@ -33,9 +33,11 @@ Coded by Steven Leal (2017)
 		3. Set 'GLEW_DIR' to be the path/to/GLEW
 
 * To test your environment variables, open a new powershell and run the following commands:
-		1. `$env:GLM_INCLUDE_DIR`
-		2. `$env:GLFW_DIR`
-		3. `$env:GLEW_DIR`
+		```powershell
+		$env:GLM_INCLUDE_DIR
+		$env:GLFW_DIR
+		$env:GLEW_DIR
+		```
 		
 * To build the Visual Studio Project:
 	* Open a command prompt in the repository's root directory
