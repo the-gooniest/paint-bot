@@ -12,14 +12,9 @@ NOTE: In all of the following instructions, don't type the quotes (ex: "" or '')
 		
 3. Download and extract the following libraries:
 	1. [GLM](http://glm.g-truc.net/)
-
-		Go to the downloads page (its a git repository) and grab the latest zip version (0.9.8.4 last time I checked).
-
+		* Go to the downloads page (its a git repository) and grab the latest zip version (0.9.8.4 last time I checked).
 	2. [GLFW](http://www.glfw.org/)
-	3. [GLEW](http://glew.sourceforge.net/)
-	
-		Download the windows 32/64-bit binaries
-
+	3. [GLEW](http://glew.sourceforge.net/) (Download the windows 32/64-bit binaries)
 		NOTE: There is no need to build or compile anything with these libraries,
 			just put the folders in a place where you can reference them later
 			when making the environment variables.
