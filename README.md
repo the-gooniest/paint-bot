@@ -1,6 +1,8 @@
-Coded by Steven Leal (2017)
-
 # PaintBot
+
+It's an OpenGL Robot Painter.
+
+Coded by Steven Leal (2017)
 
 ## Build Notes:
 Originally compiled for Visual Studio 14.0 (also confusingly known as Visual Studio 2015)
